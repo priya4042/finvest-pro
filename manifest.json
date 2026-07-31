@@ -1,6 +1,6 @@
 {
-    "name": "finvest_pro",
-    "short_name": "finvest_pro",
+    "name": "Finvest Pro",
+    "short_name": "Finvest Pro",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
